@@ -1,10 +1,10 @@
 # Notre équipe
 
-Devise : à completer
+Devise : à définir
 
-## Membre A
+Membre A
 
-à compléter
+Lucas : ce que j'aime pas le code
 
 ## Membre B
 
