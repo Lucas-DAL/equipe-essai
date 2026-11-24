@@ -1,10 +1,10 @@
-# Notre équipe 
+# Notre équipe
 
-Devise : Tous seul on vas plus vite, ensemble on vas plus loin 
+Devise : à définir
 
 ## Membre A
 
-à compléter
+Lucas : ce que j'aime pas le code
 
 ## Noé
 
