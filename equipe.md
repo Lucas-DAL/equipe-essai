@@ -1,6 +1,6 @@
 # Notre équipe
 
-Devise : un ticket, une branche.
+Devise : à completer
 
 ## Membre A
 
