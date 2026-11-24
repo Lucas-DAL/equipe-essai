@@ -1,6 +1,7 @@
 # Notre équipe
 
 Devise : on cherche d'abord.
+Devise : un ticket, une branche.
 
 Membre A
 
