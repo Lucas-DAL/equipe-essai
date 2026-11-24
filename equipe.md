@@ -3,10 +3,10 @@
 Devise : on cherche d'abord.
 Devise : un ticket, une branche.
 
-Membre A
+## Membre A
 
 Lucas : ce que j'aime pas le code
 
-## Membre B
+## Noé
 
-à compléter
+Noé : ce que j'aime dans le code
