@@ -1,10 +1,14 @@
 # Notre équipe
 
-Devise : à définir
+Devise : à completer
 
 ## Membre A
 
 Lucas : ce que j'aime pas le code
+
+## Noé
+
+à compléter
 
 ## Noé
 
